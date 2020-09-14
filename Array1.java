@@ -1,7 +1,7 @@
 
 public class Array1 {
 public static void main(String[]args) {
-	int[] x= {2,4,12,6,3};
+	int[] x= {2,4,12,6,3,10,5,7,13};
 	int x_len=x.length;
 	double sum=0;
 	double avg;
